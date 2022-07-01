@@ -1,4 +1,4 @@
-// Intersection Operator
+//  Intersection Operator
 
 // Turn our HTML collection into an array to iterate on it.
 const productCardsArray = [...document.getElementsByClassName("ProductCard")];

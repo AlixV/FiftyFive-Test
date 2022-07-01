@@ -1,4 +1,4 @@
-Voici les consignes :
+Les consignes :
 
 Chargez la page https://www.leslipfrancais.fr/maillots-de-bain-326 dans votre navigateur : cette page est composée de vignettes d'articles que l'on peut parcourir en faisant défiler la page.
 
